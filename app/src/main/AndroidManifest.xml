@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.microsoft.projectoxford.ColumbiaEmotions" >
+    package="com.columbiaemotions.ColumbiaEmotions" >
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
     <application
+
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.microsoft.projectoxford.ColumbiaEmotions.MainActivity"
+            android:name="com.columbiaemotions.ColumbiaEmotions.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,15 +22,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.microsoft.projectoxford.ColumbiaEmotions.RecognizeActivity"
+            android:name="com.columbiaemotions.ColumbiaEmotions.RecognizeActivity"
             android:label="@string/title_activity_analyze"
-            android:parentActivityName="com.microsoft.projectoxford.ColumbiaEmotions.MainActivity" >
+            android:parentActivityName="com.columbiaemotions.ColumbiaEmotions.MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.microsoft.projectoxford.ColumbiaEmotions.MainActivity" />
+                android:value="com.columbiaemotions.ColumbiaEmotions.MainActivity" />
         </activity>
         <activity
-            android:name="com.microsoft.projectoxford.ColumbiaEmotions.helper.SelectImageActivity"
+            android:name="com.columbiaemotions.ColumbiaEmotions.helper.SelectImageActivity"
             android:label="@string/select_an_image"
             android:screenOrientation="portrait" />
     </application>

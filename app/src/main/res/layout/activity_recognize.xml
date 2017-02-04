@@ -1,69 +1,77 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/analyze_img"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:id="@+id/analyze_img"
-    tools:context="com.microsoft.projectoxford.ColumbiaEmotions.RecognizeActivity">
+    tools:context="com.columbiaemotions.ColumbiaEmotions.RecognizeActivity">
+
     <ScrollView
         android:id="@+id/scroll"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        >
-    <LinearLayout
-        android:orientation="vertical"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:weightSum="1">
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="200dp"
-            android:src="@drawable/columbialogo"
-            android:layout_gravity="center_horizontal"/>
-
-
-        <Button
-            android:id="@+id/buttonSelectImage"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="24dp"
-            android:layout_marginTop="24dp"
-            android:layout_gravity="center_horizontal"
-            android:padding="12dp"
-            android:text="What's your mood?"
-            android:onClick="selectImage"/>
-
-
-            <ImageView
-                android:id="@+id/selectedImage"
-                android:layout_width="200dp"
-                android:layout_height="200dp"
-                android:layout_toRightOf="@+id/image_control"
-                android:layout_toEndOf="@+id/image_control"
-                android:background="#E0E0E0"
-                android:layout_gravity="center_horizontal"
-                android:visibility="invisible"/>
-
+        android:layout_height="wrap_content">
 
         <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="right"
-            android:layout_weight="1.03">
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/columbialogo" />
+
+
+            <Button
+                android:id="@+id/buttonSelectImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="24dp"
+                android:layout_marginTop="24dp"
+                android:padding="12dp"
+                android:text="What's your mood?" />
+
 
             <TextView
+                android:id="@+id/contact"
                 android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:inputType="textMultiLine"
-                android:ems="10"
-                android:id="@+id/editTextResult"
-                android:layout_weight="1"
-                android:visibility="invisible"
-                android:layout_marginBottom="20dp"/>
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="16dp"
+                android:text="Do you want me to contact Counseling and Psychological Services?"
+                android:textSize="20sp"
+                android:visibility="invisible" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="16dp">
+
+                <TextView
+                    android:id="@+id/contact_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:text="212-854-2878"
+                    android:textSize="20sp"
+                    android:visibility="invisible" />
+
+                <ImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/phone"
+                    android:id="@+id/phone_icon"
+                    android:visibility="invisible"/>
+            </LinearLayout>
+
         </LinearLayout>
-    </LinearLayout>
     </ScrollView>
 </RelativeLayout>
