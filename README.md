@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/dominhtri1995/Hackathon2017/blob/master/screenshot_2.png" width="250">
+<img src="https://github.com/dominhtri1995/Hackathon2017/blob/master/screenshot.png" width="250"> 
+</p>
 ## Inspiration
 Inspired by the recent wave of suicides at Columbia, we want to make an app that can track user's emotion and provide recommendations as appropriate.
 ## What it does
@@ -12,9 +16,6 @@ Orange button ftw!
 Orange fits well with blue
 ## What's next for Hackathon2017
 Better user interface, more diagnostic, more suggestion types (other than quotes)
-
-<img src="https://github.com/dominhtri1995/Hackathon2017/blob/master/screenshot_2.png" width="250">
-<img src="https://github.com/dominhtri1995/Hackathon2017/blob/master/screenshot.png" width="250"> 
 
 
 
