@@ -25,6 +25,7 @@
             android:layout_gravity="center" />
 
         <Button
+            android:background="@drawable/button_press"
             android:id="@+id/button_take_a_photo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -40,6 +41,7 @@
         android:layout_weight="1">
 
         <Button
+            android:background="@drawable/button_press"
             android:id="@+id/button_select_a_photo_in_album"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -32,4 +32,5 @@ dependencies {
     compile 'com.google.code.gson:gson:2.5'
     compile 'com.android.support:support-v4:23.4.0'
     compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.nihaskalam.android:progress-button:1.0.1'
 }

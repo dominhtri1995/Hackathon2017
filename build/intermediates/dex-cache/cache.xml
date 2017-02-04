@@ -1,2 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_af5d9f70b00e733fcd9616d588000aa3a8fb0c74.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a7b2d7aff30f1554b772c7ef4fe22b56060d3be6.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_def1a7889d6e3ceffba352c78193d4e4fa2b9cfe.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_1710adda127a257bf1afc2dd25a918eeab205c5f.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_24f0ef4113c0dc1d2ce92f399c73bf7817c1b74f.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_04dba03899a50bcde7477b6ca11c8a46dc6b1fa3.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_0c439272f9640111e3f82510fee715ec951cccfd.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5868b9202a98c917f86082e5b68c9d15755c6460.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_5a93f64afe8706c8c97e9ef2ff79ebceee749f4c.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_4cd8ba276b1cc06615bbec41a12d93ce426f0bb2.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e92804ff67310e4aa56f22ca2e46d900dacd9376.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_445da9137e3cb61906dca3a1d27a51043d8c9343.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_df7cb8755ee8f2b08c8d9dc5f93dbc386e179e98.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_235a1413da5afdd3ff7ae4a2c69b1fadf80cf460.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/gson-2.5_6858d5c2825cc39c77388092698e6b1338c090a3.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/emotion/1.0.355/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e14806eb68bf5098f8a6b6f09e414143b7532280">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.microsoft.projectoxford-emotion-1.0.355_a2cde7e81fd1dcb55fe370d6e06d55aa7b39b4ec.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_9d0a343c98838cc28cd67698d4e3d6347d87b101.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.nihaskalam.android/progress-button/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="016f0c4dc50a7cffa3ea453a95a123fe41db906a">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.nihaskalam.android-progress-button-1.0.1_1eeb808ae4198829a27d11ad55acfc214bfe1c42.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_ba5d5cf8a2514d5fa0c7787ff8f092588e66a8f4.jar" />
+    </item>
+    <item
+        jar="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/face/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="/Users/Blah/Documents/Hackathon2017/app/build/intermediates/pre-dexed/debug/com.microsoft.projectoxford-face-1.0.0_efef2746b964fe951010b3bcfeac2b5175d51a24.jar" />
+    </item>
+
+</items>
